@@ -1,0 +1,17 @@
+{
+  "name": "npm_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mangoodb": "^1.5.1",
+    "mongoose": "^6.3.8",
+    "underscore": "^1.13.4"
+  }
+}
